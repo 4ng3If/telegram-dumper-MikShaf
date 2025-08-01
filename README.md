@@ -34,7 +34,7 @@ Again pls use it responsibly and ethically.
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/MikShaf.git
+   git clone https://github.com/4ng3If/telegram-dumper-MikShaf.git
    cd MikShaf
    ```
 
