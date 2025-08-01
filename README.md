@@ -35,7 +35,7 @@ Again pls use it responsibly and ethically.
 1. Clone this repository:
    ```
    git clone https://github.com/4ng3If/telegram-dumper-MikShaf.git
-   cd MikShaf
+   cd telegram-dumper-MikShaf
    ```
 
 2. Create and activate a virtual environment (for newbies):
